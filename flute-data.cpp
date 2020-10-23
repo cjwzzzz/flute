@@ -219,7 +219,7 @@ int main()
     // generateData("data/rsmt_5_train_6.txt", 10000, 2018);
     // generateData("data/rsmt_5_test_6.txt", 10000, 2019);
     // generateData("data/rsmt_4_test_dup5.txt", 10000, 2019);
-    generateData("data/iccad-test/benchmark_cad1_18.txt","data/iccad-test/flute_100_test.txt");// 
+    generateData("../inputfile/benchmark_cad1_18.txt","../inputfile/flute_100_test.txt");// 
 
     // int d=0;
     // int x[MAXD], y[MAXD];

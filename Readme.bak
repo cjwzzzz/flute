@@ -38,6 +38,3 @@ to be in the current directory.  Some example commands:
  rand-pts 20 | flute-net	    // 20-pin nets
  rand-pts -r 20 | flute-net	    // randomized
  flute-ckt ibm01 ibm01.aux ibm01/ibm01.pl
- 
-NOTES£ºCreating a flute-data.cpp to 
-generate RSMT for multi_pin net that can deal with more than 150-pin net although lose accuracy.
